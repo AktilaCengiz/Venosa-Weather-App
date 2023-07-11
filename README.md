@@ -1,6 +1,6 @@
-# venosa-to-do-app
+# venosa-weather-app-with-dark-and-white-theme
 
-This template should help get you started developing with Vue 3 in Vite.
+This template created by aktila for a vue project with theme & weather api
 
 ## Recommended IDE Setup
 
